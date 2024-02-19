@@ -33,3 +33,4 @@ To use this thing, just run it like any other command in the terminal.
 ```
 deleteallm4a
 ```
+It will ask for the directory that has .m4a files, you cannot use the tilde user shortcut (~/). You have to enter the full path to the folder (/Users/your_user/path_to_folder) that contains .m4a files.
